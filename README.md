@@ -43,8 +43,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -57,8 +55,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-  </tr>
- <tr>
  </tr>
 </table>
 
