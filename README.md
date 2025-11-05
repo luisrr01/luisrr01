@@ -75,12 +75,9 @@ Bienvenido a mi página de GitHub. Soy Luis Rosa, bachiller en Ingeniería de TI
  </tr>
 </table>
 
-## Estadísticas de Github 📊
-
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="luisrr01's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=luisrr01&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="luisrr01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrr01&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
