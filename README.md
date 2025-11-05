@@ -48,8 +48,8 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>Power BI
     </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://digitalresearch.bsu.edu/studentsymposium2021/files/original/0819f70bc2e7a72233fa0c02fb8b77cc.png" alt="icon" width="65" height="65" />
+      <br>SPSS
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
