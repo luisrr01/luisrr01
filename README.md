@@ -44,7 +44,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>Sklearn
     </td>
         <td align="center" width="96">
-        <img src="https://images.seeklogo.com/logo-png/43/2/power-bi-icon-logo-png_seeklogo-439962.png" width="48" height="48" alt="Git" />
+        <img src="https://images.seeklogo.com/logo-png/43/2/power-bi-icon-logo-png_seeklogo-439962.png" alt="icon" width="65" height="65" />
       <br>Power BI
     </td>
       <td align="center" width="96">
