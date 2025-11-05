@@ -43,6 +43,10 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
         <img src="https://skillicons.dev/icons?i=sklearn" alt="icon" width="65" height="65" />
       <br>Sklearn
     </td>
+        <td align="center" width="96">
+        <img src="https://images.seeklogo.com/logo-png/43/2/power-bi-icon-logo-png_seeklogo-439962.png" width="48" height="48" alt="Git" />
+      <br>Power BI
+    </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
@@ -54,10 +58,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
     </td>
     <td align="center"  width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" width="48" height="48" alt="HTML" />
