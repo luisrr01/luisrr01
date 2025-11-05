@@ -51,10 +51,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
@@ -62,6 +58,10 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
     <td align="center"  width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" width="48" height="48" alt="HTML" />
       <br>VBA
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65" />
+      <br>HTML
     </td>
  </tr>
 </table>
