@@ -5,7 +5,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/luisgrosar">
-<img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white">
+<img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle">
 </a>
 
 </div>
