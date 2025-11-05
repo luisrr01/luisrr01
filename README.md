@@ -15,6 +15,15 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 </p>
 
+## Sobre mi 👋
+
+- 👨‍💻 Data Scientist Jr. en formación
+- ⚙️ +2 años de experiencia optimizando y automatizando procesos en el sector financiero  
+- 🐍 Trabajo con Python, SQL, Power BI y VBA para análisis y modelado de datos  
+- 📊 He desarrollado modelos predictivos (churn, phishing, riesgo de pago) con sklearn  
+- 📚 Finalicé un programa de especialización en Ciencia de Datos  
+- 🧱 Disfruto crear dashboards e indicadores para la toma de decisiones estratégicas 
+
 ## Mis herramientas y tecnologías favoritas ⚙️
 
 > Herramientas y tecnologías con las que he trabajado y en las que estoy interesado
