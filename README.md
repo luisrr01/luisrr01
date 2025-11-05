@@ -11,7 +11,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+Bienvenido a mi página de GitHub. Soy Luis Rosa, bachiller en Ingeniería de TI y Sistemas. Disfruto aprender, experimentar y crear soluciones basadas en datos. Aquí encontrarás proyectos que reflejan mi crecimiento y mi interés por la ciencia de datos.
 
 </p>
 
