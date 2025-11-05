@@ -28,7 +28,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>Python
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="jquery" />
+      <br>R Studio
+    </td>
+        <td align="center" width="96">
+        <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" width="48" height="48" alt="jquery" />
       <br>SQL Server
     </td>
         <td align="center" width="96">
