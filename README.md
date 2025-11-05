@@ -61,7 +61,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
     </td>
     <td align="center"  width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" width="48" height="48" alt="HTML" />
-      <br>Excel y VBA
+      <br>VBA
     </td>
  </tr>
 </table>
