@@ -39,6 +39,10 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="jquery" />
       <br>VS Code
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sklearn" alt="icon" width="65" height="65" />
+      <br>Sklearn
+    </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
@@ -46,10 +50,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
@@ -60,8 +60,8 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://cdn.springpeople.com/media/Excel%20Automation%20using%20VBA.png" width="48" height="48" alt="HTML" />
-      <br>VBA
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" width="48" height="48" alt="HTML" />
+      <br>Excel y VBA
     </td>
  </tr>
 </table>
