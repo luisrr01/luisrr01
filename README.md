@@ -11,13 +11,13 @@
 </div>
 <p></p>
 <p align="justify">
-Bienvenido a mi página de GitHub. Soy Luis Rosa, bachiller en Ingeniería de TI y Sistemas. Disfruto aprender, experimentar y crear soluciones basadas en datos. Aquí encontrarás proyectos que reflejan mi crecimiento y mi interés por la ciencia de datos.
+Bienvenido a mi página de GitHub. Soy Luis Rosa, bachiller en Ingeniería de TI y Sistemas y certificado en Data Science. Disfruto aprender, experimentar y crear soluciones basadas en datos. Aquí encontrarás proyectos que reflejan mi crecimiento y mi interés por la ciencia de datos.
 
 </p>
 
 ## Sobre mi 👋
 
-- 👨‍💻 Data Scientist Jr. en formación
+- 👨‍💻 Data Scientist Jr.
 - ⚙️ +2 años de experiencia optimizando y automatizando procesos en el sector financiero  
 - 🐍 Trabajo con Python, SQL, Power BI y VBA para análisis y modelado de datos  
 - 📊 He desarrollado modelos predictivos (churn, phishing, riesgo de pago) con sklearn  
