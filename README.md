@@ -64,8 +64,8 @@ Bienvenido a mi página de GitHub. Soy Luis Rosa, bachiller en Ingeniería de TI
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
-    <td align="center"  width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503e32e3ed318a0ed79decaf2fe3bc3585/icons/microsoftexcel/microsoftexcel-original.svg" width="48" height="48" alt="HTML" />
+    <td align="center" width="96">
+        <img src="https://static.files.bbci.co.uk/core/website/assets/static/sport/excel.png" width="48" height="48" alt="Excel" />
       <br>VBA
     </td>
   <td align="center" width="96">
