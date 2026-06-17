@@ -65,7 +65,7 @@ Bienvenido a mi página de GitHub. Soy Luis Rosa, bachiller en Ingeniería de TI
       <br>Github
     </td>
     <td align="center"  width="96">
-        <img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" width="48" height="48" alt="HTML" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503e32e3ed318a0ed79decaf2fe3bc3585/icons/microsoftexcel/microsoftexcel-original.svg" width="48" height="48" alt="HTML" />
       <br>VBA
     </td>
   <td align="center" width="96">
