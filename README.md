@@ -65,7 +65,7 @@ Bienvenido a mi página de GitHub. Soy Luis Rosa, bachiller en Ingeniería de TI
       <br>Github
     </td>
     <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" width="48" height="48" alt="HTML" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.shadow.svg" width="48" height="48" alt="HTML" />
       <br>VBA
     </td>
   <td align="center" width="96">
