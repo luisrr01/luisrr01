@@ -65,12 +65,7 @@ Bienvenido a mi página de GitHub. Soy Luis Rosa, bachiller en Ingeniería de TI
       <br>Github
     </td>
     <td align="center" width="96">
-        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24">
-          <path fill="#107c41" d="M16.2 1H7.8C6.8 1 6 1.8 6 2.8v18.4c0 1 .8 1.8 1.8 1.8h8.4c1 0 1.8-.8 1.8-1.8V2.8c0-1-.8-1.8-1.8-1.8z"/>
-          <path fill="#fff" d="M9.4 7.5h1.7l1.4 2.8c.1.2.2.4.3.6h.1c.1-.2.2-.4.3-.6l1.4-2.8h1.7l-2.4 4.1l2.5 4.4h-1.7l-1.5-3.1c-.1-.2-.2-.4-.3-.6h-.1c-.1.2-.2.4-.3.6l-1.5 3.1H9.3l2.5-4.4z"/>
-          <path fill="#217346" d="M1 5h10v14H1z"/>
-          <path fill="#fff" d="M3.3 9h1.6l1.2 2.5c.1.2.2.4.3.6h.1c.1-.2.2-.4.3-.6L8 9h1.5L7.3 12l2.3 4H8l-1.4-2.9c-.1-.2-.2-.4-.3-.6h-.1c-.1.2-.2.4-.3.6L4.5 16H3l2.3-4z"/>
-        </svg>
+        <img src="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/3/30/Microsoft_Excel_Logo.svg&w=48&h=48" width="48" height="48" alt="Excel" />
       <br>VBA
     </td>
   <td align="center" width="96">
